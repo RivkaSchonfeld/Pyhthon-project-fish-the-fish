@@ -110,6 +110,7 @@ while (True):
 matrix[int((fish - 1) / size)][(fish - 1) % size] = "🐠"
 print_mat(matrix)
 print("Good Job! You stepped " + str(count) + " steps, your score is: "+str((10-count)*10)+" !!")
+input("Press Enter to exit...")
 
 try:
    with open("data.txt", 'r') as file:
