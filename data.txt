@@ -1,0 +1,4 @@
+rivka: 60
+hadas: 50
+yael: 40
+Zehava: 60
